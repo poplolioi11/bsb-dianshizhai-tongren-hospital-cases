@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '《點石齋畫報》上海同仁醫院個案二則（1884、1895 年，巴伐利亞邦立圖書館） / Dian shi zhai hua bao [Two Cases
+  at Tongren Hospital in Shanghai]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/bsb-dianshizhai-tongren-hospital-cases
+keywords:
+- 點石齋畫報
+- 上海同仁醫院
+- 虹口
+- 著手成春
+- 頭上生頭
+- 晚清醫療
+- 女醫
+- 個案
+- 醫院史
+- Dianshizhai Pictorial
+- Tongren Hospital
+- St Luke's Hospital Shanghai
+- women physicians
+- medical history
+- clinical cases
+- care seeking
+- Shanghai
+- Bavarian State Library
+- IIIF
+- TEI

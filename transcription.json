@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "title": "《點石齋畫報》上海同仁醫院個案二則",
+    "roman_title": "Dian shi zhai hua bao: Zhuo shou cheng chun and Tou shang sheng tou",
+    "author": "《點石齋畫報》編刊者（圖款分錄，正文無署名）",
+    "date": "光緒十年（1884）乙十一；光緒二十一年（1895）書四",
+    "location": "München",
+    "repository": "巴伐利亞邦立圖書館（Bayerische Staatsbibliothek）",
+    "collection": "點石齋畫報，第 1、4 函",
+    "shelfmark": "L.sin. K 175-1/10 與 L.sin. K 175-31/37",
+    "catalogue": "https://opacplus.bsb-muenchen.de/title/BV040390393",
+    "language": "lzh",
+    "description": "上海虹口同仁醫院的兩則個案刊於《點石齋畫報》。1884 年〈著手成春〉報導一名婦人因大瘤求醫，就診後由女醫施治。1895 年〈頭上生頭〉記家屬抱初生兒前來診視，院內女醫轉報會診，諸醫因嬰兒體弱建議延後手術。兩篇為晚清報刊如何呈現女醫、患者就醫與院內照護決策的史料。",
+    "description_en": "Two illustrated reports in the Dianshizhai Pictorial describe patients at Tongren (St Luke's) Hospital in Shanghai. The 1884 article Zhuo shou cheng chun describes a woman with a large growth and her treatment by a woman physician. The 1895 article Tou shang sheng tou describes a family bringing a newborn to the hospital, where an attending woman physician sought consultation and the doctors recommended postponing surgery. The reports document how the late Qing illustrated press represented women physicians, care seeking and clinical decisions.",
+    "txt_reader_statement": "題名、刊號、畫款、印和圖內可定位的小字另列。各面直欄從右往左。文末附兩篇連讀全文。□ 表示未定字。",
+    "tei_editorial_statement": "〈著手成春〉取第192幅左半；〈頭上生頭〉取第434幅同一開面。依原圖讀序保留圖說文字、原刊版記及題署；印記和未明的圖內小字保留原圖位置。",
+    "manifest_url": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest",
+    "source_manifests": {
+      "bsb00075644": {
+        "url": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest",
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sha256": "c074f1913997c7a1c77fa1f6633935606b96a4802af344ac15989bb7323c496f"
+      },
+      "bsb00075647": {
+        "url": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/manifest",
+        "rights": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "sha256": "55b3238ffd4160d816dbc95e105635460871696a8fe1d0e3b5c35ccabebce631"
+      }
+    },
+    "record_id": "BSB00075644F192",
+    "edition": "0.1.0",
+    "original_publication_place": "上海",
+    "version": "0.1.0",
+    "dataset_title": "《點石齋畫報》上海同仁醫院個案二則（1884、1895 年，巴伐利亞邦立圖書館） / Dian shi zhai hua bao [Two Cases at Tongren Hospital in Shanghai]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "catalogue_frame": 192,
+      "source_book": "bsb00075644",
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075644_00192/0,0,2077,4043/1400,/0/default.jpg",
+      "native_width": 1400,
+      "native_height": 2725,
+      "source_service_width": 4131,
+      "source_service_height": 4043,
+      "sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "bytes": 919728,
+      "historic_publication_year": 1884,
+      "printed_issue": "乙十一",
+      "printed_plate": "八十一",
+      "article_title": "著手成春",
+      "label": {
+        "none": [
+          "乙十一・八十一・著手成春"
+        ]
+      },
+      "catalogue_url": "https://opacplus.bsb-muenchen.de/title/BV040390393",
+      "image_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_extent": "left-face-only",
+      "content_role": "complete-illustrated-report",
+      "observations": "只錄此幅左面的完整圖說及圖內題署；右面與本篇分幅，另題〈誤認桃源〉。",
+      "source_selected_native_region_xywh": [
+        0,
+        0,
+        2077,
+        4043
+      ],
+      "state": "transcribed",
+      "sides": [
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "讀得湯頭歌訣便躋時醫胡亂開方草菅人命死也"
+            },
+            {
+              "text": "而委之數律無抵偶然僥幸病者之稱道也人情也"
+            },
+            {
+              "text": "而醫者亦居之不疑以為非我莫汝生也及叩其所以"
+            },
+            {
+              "text": "病所以生之理而膚淺支離不待其詞之畢而已"
+            },
+            {
+              "text": "掩耳之不及矣迺者西國女醫名麗盈始乃逗者"
+            },
+            {
+              "text": "婦科其專門也而旁通外科有徽婦生一瘤其"
+            },
+            {
+              "text": "大無匹就醫於虹口之同仁醫院女醫按之曰是可"
+            },
+            {
+              "text": "治出利刃而□之下敷以藥匝月而愈權之重"
+            },
+            {
+              "text": "可人身四分之一夫何如乎是症不遇是"
+            },
+            {
+              "text": "醫萬難望病之却是醫不遇是症誰"
+            },
+            {
+              "text": "為知術之神之兩人者殆有天緣乎華"
+            },
+            {
+              "text": "醫聞之將不免舌撟不下首俯不禁矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題（橫書右起）",
+              "text": "著手成春",
+              "figure_zone": "f01-l-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "八十一",
+              "figure_zone": "f01-l-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "乙十一",
+              "figure_zone": "f01-l-feature-3",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖內左下畫款",
+              "text": "友如吳獻",
+              "figure_zone": "f01-l-feature-4",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下方印",
+              "text": "",
+              "figure_zone": "f01-l-feature-5"
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末左下方印",
+              "text": "",
+              "figure_zone": "f01-l-feature-6"
+            },
+            {
+              "type": "inscription",
+              "location": "櫃上藥瓶小字未辨",
+              "text": "",
+              "figure_zone": "f01-l-feature-7"
+            }
+          ]
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f01-l-feature-1",
+          "type": "article-title",
+          "bbox": [
+            730,
+            510,
+            1277,
+            598
+          ]
+        },
+        {
+          "id": "f01-l-feature-2",
+          "type": "form-mark",
+          "bbox": [
+            15,
+            2050,
+            113,
+            2201
+          ]
+        },
+        {
+          "id": "f01-l-feature-3",
+          "type": "form-mark",
+          "bbox": [
+            15,
+            2425,
+            110,
+            2537
+          ]
+        },
+        {
+          "id": "f01-l-feature-4",
+          "type": "artist-signature",
+          "bbox": [
+            123,
+            2272,
+            185,
+            2474
+          ]
+        },
+        {
+          "id": "f01-l-feature-5",
+          "type": "artist-seal",
+          "bbox": [
+            131,
+            2483,
+            195,
+            2539
+          ]
+        },
+        {
+          "id": "f01-l-feature-6",
+          "type": "printer-seal",
+          "bbox": [
+            616,
+            1100,
+            666,
+            1198
+          ]
+        },
+        {
+          "id": "f01-l-feature-7",
+          "type": "inscription",
+          "bbox": [
+            3,
+            818,
+            195,
+            1285
+          ]
+        }
+      ],
+      "printed_article_title": "著手成春",
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "麗盈始乃逗",
+          "candidates": [
+            "麗盈始乃逗",
+            "麗盈始乃逹"
+          ],
+          "note": "人名記音末字走部受筆勢影響。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "利刃而□之",
+          "candidates": [
+            "刓",
+            "刢",
+            "利"
+          ],
+          "note": "左部寫法近元、令，右有刂，暫置□。"
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "catalogue_frame": 434,
+      "source_book": "bsb00075647",
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434",
+      "image_url": "https://api.digitale-sammlungen.de/iiif/image/v3/bsb00075647_00434/full/2400,/0/default.jpg",
+      "native_width": 2400,
+      "native_height": 2357,
+      "source_service_width": 4050,
+      "source_service_height": 3978,
+      "sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "bytes": 1030494,
+      "historic_publication_year": 1895,
+      "printed_issue": "書四",
+      "printed_plate": "三十二",
+      "article_title": "頭上生頭",
+      "label": {
+        "none": [
+          "書四・三十二・頭上生頭"
+        ]
+      },
+      "catalogue_url": "https://opacplus.bsb-muenchen.de/title/BV040390410",
+      "image_rights": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_extent": "both-faces",
+      "content_role": "complete-illustrated-report",
+      "observations": "先讀右面的橫題和八欄，再讀左面的十六欄。右下圖款及左方刊記另錄。",
+      "state": "transcribed",
+      "sides": [
+        {
+          "side": "right",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "英界長發棧今"
+            },
+            {
+              "text": "春寓有某氏婦口"
+            },
+            {
+              "text": "操山左音前曾產"
+            },
+            {
+              "text": "一孩頗具異相人"
+            },
+            {
+              "text": "初不之知也日之前聞"
+            },
+            {
+              "text": "美界同仁醫院之西"
+            },
+            {
+              "text": "醫生擅扁盧術能視"
+            },
+            {
+              "text": "奇疾遂乘肩輿抱孩"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "location": "篇題（橫書右起）",
+              "text": "頭上生頭",
+              "figure_zone": "f02-r-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-signature",
+              "location": "圖內右下畫款",
+              "text": "符節",
+              "figure_zone": "f02-r-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "artist-seal",
+              "location": "畫款下方印",
+              "text": "",
+              "figure_zone": "f02-r-feature-3"
+            },
+            {
+              "type": "inscription",
+              "location": "櫃上藥瓶小字未辨",
+              "text": "",
+              "figure_zone": "f02-r-feature-4"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "main_language": "lzh",
+          "columns": [
+            {
+              "text": "往診先由女醫診視見"
+            },
+            {
+              "text": "該孩五官無異惟首上"
+            },
+            {
+              "text": "有首二首層疊若胡蘆"
+            },
+            {
+              "text": "蓋上一首雖不能吃乳而"
+            },
+            {
+              "text": "耳目口鼻無異常兒爰告"
+            },
+            {
+              "text": "知院主及醫士邀集在滬"
+            },
+            {
+              "text": "之中西諸名醫到院商議"
+            },
+            {
+              "text": "婦請將孩之上首用刀割去"
+            },
+            {
+              "text": "諸醫以孩生甫彌月氣力過"
+            },
+            {
+              "text": "弱一經奏刀恐不免有性命"
+            },
+            {
+              "text": "之虞請俟稍長始可設法割"
+            },
+            {
+              "text": "治婦無奈怏〻而回按前者"
+            },
+            {
+              "text": "滬上來一兩頭孩係前後背"
+            },
+            {
+              "text": "生兩面皆能飲食一時傳為"
+            },
+            {
+              "text": "異事今乃頭上加頭斯真可"
+            },
+            {
+              "text": "謂出人頭地矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "form-mark",
+              "location": "原刊圖號",
+              "text": "三十二",
+              "figure_zone": "f02-l-feature-1",
+              "language": "lzh"
+            },
+            {
+              "type": "form-mark",
+              "location": "原刊期碼",
+              "text": "書四",
+              "figure_zone": "f02-l-feature-2",
+              "language": "lzh"
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末左側兩印，未辨",
+              "text": "",
+              "figure_zone": "f02-l-feature-3"
+            },
+            {
+              "type": "inscription",
+              "location": "櫃上藥瓶小字未辨",
+              "text": "",
+              "figure_zone": "f02-l-feature-4"
+            }
+          ]
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f02-r-feature-1",
+          "type": "article-title",
+          "bbox": [
+            1660,
+            360,
+            1898,
+            470
+          ]
+        },
+        {
+          "id": "f02-r-feature-2",
+          "type": "artist-signature",
+          "bbox": [
+            2250,
+            2048,
+            2298,
+            2121
+          ]
+        },
+        {
+          "id": "f02-r-feature-3",
+          "type": "artist-seal",
+          "bbox": [
+            2254,
+            2113,
+            2304,
+            2151
+          ]
+        },
+        {
+          "id": "f02-r-feature-4",
+          "type": "inscription",
+          "bbox": [
+            1187,
+            835,
+            1380,
+            1290
+          ]
+        },
+        {
+          "id": "f02-l-feature-1",
+          "type": "form-mark",
+          "bbox": [
+            10,
+            1717,
+            61,
+            1870
+          ]
+        },
+        {
+          "id": "f02-l-feature-2",
+          "type": "form-mark",
+          "bbox": [
+            12,
+            2044,
+            65,
+            2180
+          ]
+        },
+        {
+          "id": "f02-l-feature-3",
+          "type": "printer-seal",
+          "bbox": [
+            363,
+            492,
+            461,
+            620
+          ]
+        },
+        {
+          "id": "f02-l-feature-4",
+          "type": "inscription",
+          "bbox": [
+            809,
+            946,
+            1058,
+            1193
+          ]
+        }
+      ],
+      "printed_article_title": "頭上生頭",
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "日之前聞",
+          "candidates": [
+            "日之前聞",
+            "日前聞"
+          ],
+          "note": "日在前上方另見一短曲筆，初讀作之。"
+        }
+      ]
+    }
+  ]
+}

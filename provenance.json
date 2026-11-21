@@ -1,0 +1,35 @@
+{
+  "historical_author": "《點石齋畫報》編刊者（圖款分錄，正文無署名）",
+  "source_identity": "Bayerische Staatsbibliothek bsb00075644 scan 192 (left) and bsb00075647 scan 434",
+  "source": "https://opacplus.bsb-muenchen.de/title/BV040390393",
+  "iiif_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/manifest",
+  "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 2,
+  "content_scan_count": 2,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192",
+      "label": {
+        "none": [
+          "乙十一・八十一・著手成春"
+        ]
+      },
+      "sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "content_role": "complete-illustrated-report"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434",
+      "label": {
+        "none": [
+          "書四・三十二・頭上生頭"
+        ]
+      },
+      "sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "content_role": "complete-illustrated-report"
+    }
+  ]
+}
