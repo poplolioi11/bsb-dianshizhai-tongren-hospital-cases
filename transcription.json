@@ -28,11 +28,11 @@
       }
     },
     "record_id": "BSB00075644F192",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "original_publication_place": "上海",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "《點石齋畫報》上海同仁醫院個案二則（1884、1895 年，巴伐利亞邦立圖書館） / Dian shi zhai hua bao [Two Cases at Tongren Hospital in Shanghai]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -81,7 +81,7 @@
               "text": "讀得湯頭歌訣便躋時醫胡亂開方草菅人命死也"
             },
             {
-              "text": "而委之數律無抵偶然僥幸病者之稱道也人情也"
+              "text": "而委之數律無抵偶然徼幸病者之稱道也人情也"
             },
             {
               "text": "而醫者亦居之不疑以為非我莫汝生也及叩其所以"
@@ -99,13 +99,13 @@
               "text": "大無匹就醫於虹口之同仁醫院女醫按之曰是可"
             },
             {
-              "text": "治出利刃而□之下敷以藥匝月而愈權之重"
+              "text": "治出利刀而□之下敷以藥匝月而愈權之重"
             },
             {
               "text": "可人身四分之一夫何如乎是症不遇是"
             },
             {
-              "text": "醫萬難望病之却是醫不遇是症誰"
+              "text": "醫萬難望病之郤是醫不遇是症誰"
             },
             {
               "text": "為知術之神之兩人者殆有天緣乎華"
@@ -229,10 +229,10 @@
           "id": "f01-l-feature-7",
           "type": "inscription",
           "bbox": [
-            3,
-            818,
-            195,
-            1285
+            105,
+            748,
+            528,
+            1465
           ]
         }
       ],
@@ -243,21 +243,32 @@
           "column": 5,
           "context": "麗盈始乃逗",
           "candidates": [
-            "麗盈始乃逗",
-            "麗盈始乃逹"
+            "逗",
+            "迴",
+            "迺"
           ],
-          "note": "人名記音末字走部受筆勢影響。"
+          "note": "西醫音譯末字的辶清楚，內部框線連筆。"
         },
         {
           "side": "left",
           "column": 8,
-          "context": "利刃而□之",
+          "context": "利刀而□之",
           "candidates": [
-            "刓",
             "刢",
-            "利"
+            "刓",
+            "剖"
           ],
-          "note": "左部寫法近元、令，右有刂，暫置□。"
+          "note": "該動詞右刂可見，左部手寫連線不足確讀。"
+        },
+        {
+          "side": "left",
+          "column": 12,
+          "context": "舌撟不下",
+          "candidates": [
+            "撟",
+            "橋"
+          ],
+          "note": "舌次字從手旁。下右另有小點，與文字關係未明。"
         }
       ]
     },
@@ -300,13 +311,13 @@
               "text": "春寓有某氏婦口"
             },
             {
-              "text": "操山左音前曾產"
+              "text": "操山左音前曾産"
             },
             {
               "text": "一孩頗具異相人"
             },
             {
-              "text": "初不之知也日之前聞"
+              "text": "初不之知也日前聞"
             },
             {
               "text": "美界同仁醫院之西"
@@ -352,22 +363,22 @@
           "main_language": "lzh",
           "columns": [
             {
-              "text": "往診先由女醫診視見"
+              "text": "往診先由女醫驗視見"
             },
             {
               "text": "該孩五官無異惟首上"
             },
             {
-              "text": "有首二首層疊若胡蘆"
+              "text": "有首二首層疊若葫蘆"
             },
             {
-              "text": "蓋上一首雖不能吃乳而"
+              "text": "祇上一首雖不能吃乳而"
             },
             {
               "text": "耳目口鼻無異常兒爰告"
             },
             {
-              "text": "知院主及醫士邀集在滬"
+              "text": "知院主文醫士邀集在滬"
             },
             {
               "text": "之中西諸名醫到院商議"
@@ -417,15 +428,21 @@
             },
             {
               "type": "printer-seal",
-              "location": "圖說末左側兩印，未辨",
+              "location": "圖說末左側上圓印",
               "text": "",
               "figure_zone": "f02-l-feature-3"
+            },
+            {
+              "type": "printer-seal",
+              "location": "圖說末左側下圓印",
+              "text": "",
+              "figure_zone": "f02-l-feature-4"
             },
             {
               "type": "inscription",
               "location": "櫃上藥瓶小字未辨",
               "text": "",
-              "figure_zone": "f02-l-feature-4"
+              "figure_zone": "f02-l-feature-5"
             }
           ]
         }
@@ -435,10 +452,10 @@
           "id": "f02-r-feature-1",
           "type": "article-title",
           "bbox": [
-            1660,
-            360,
-            1898,
-            470
+            1582,
+            392,
+            1899,
+            452
           ]
         },
         {
@@ -495,14 +512,24 @@
           "id": "f02-l-feature-3",
           "type": "printer-seal",
           "bbox": [
-            363,
-            492,
-            461,
-            620
+            390,
+            497,
+            448,
+            557
           ]
         },
         {
           "id": "f02-l-feature-4",
+          "type": "printer-seal",
+          "bbox": [
+            389,
+            552,
+            449,
+            606
+          ]
+        },
+        {
+          "id": "f02-l-feature-5",
           "type": "inscription",
           "bbox": [
             809,
@@ -515,14 +542,14 @@
       "printed_article_title": "頭上生頭",
       "issues": [
         {
-          "side": "right",
-          "column": 5,
-          "context": "日之前聞",
+          "side": "left",
+          "column": 4,
+          "context": "祇上一首",
           "candidates": [
-            "日之前聞",
-            "日前聞"
+            "祇",
+            "祗"
           ],
-          "note": "日在前上方另見一短曲筆，初讀作之。"
+          "note": "示旁可辨，右底小筆有連痕。"
         }
       ]
     }

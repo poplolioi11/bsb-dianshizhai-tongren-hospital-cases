@@ -1,0 +1,280 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 10,
+  "changes": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 2,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "僥",
+      "after": "徼",
+      "reason": "該字左作彳，右下見攵，依徼錄。",
+      "source_bbox": [
+        1212,
+        950,
+        1268,
+        1060
+      ],
+      "offset": 10,
+      "source_image_sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "利刃而□",
+      "after": "利刀而□",
+      "reason": "利後字無刃的內點，作刀。後一動詞左旁縮寫，剖、刢、刓等未足確讀。",
+      "source_bbox": [
+        890,
+        703,
+        948,
+        977
+      ],
+      "offset": 3,
+      "source_image_sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 10,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "却",
+      "after": "郤",
+      "reason": "右旁作邑字側形，左有谷口，保留底本文字郤。",
+      "source_bbox": [
+        773,
+        870,
+        832,
+        994
+      ],
+      "offset": 7,
+      "source_image_sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 3,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "產",
+      "after": "産",
+      "reason": "末字上方近立，斜走筆之下為生，照形錄産。",
+      "source_bbox": [
+        1420,
+        550,
+        1476,
+        643
+      ],
+      "offset": 7,
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "column": 5,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "日之前聞",
+      "after": "日前聞",
+      "reason": "日後兩短點是前字的上起兩筆。和右三的前、左十二的前相同，合成一字。",
+      "source_bbox": [
+        1325,
+        455,
+        1384,
+        655
+      ],
+      "offset": 6,
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 1,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "女醫診視",
+      "after": "女醫驗視",
+      "reason": "女醫後字較前面往診的診複雜，右下收筆與驗的僉形一致。",
+      "source_bbox": [
+        1100,
+        395,
+        1149,
+        650
+      ],
+      "offset": 5,
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 3,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "胡蘆",
+      "after": "葫蘆",
+      "reason": "胡形上方另有草頭兩短筆，依葫錄。第一個首下小點與緊接的橫畫共同構成二字，未增標點。",
+      "source_bbox": [
+        1010,
+        373,
+        1056,
+        685
+      ],
+      "offset": 8,
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 4,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "蓋",
+      "after": "祇",
+      "reason": "初字左近示，右下見斜彎與長弧，無蓋的皿形底。從祇，兼留祗為候選。",
+      "source_bbox": [
+        972,
+        358,
+        1015,
+        518
+      ],
+      "offset": 1,
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 6,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "主及醫士",
+      "after": "主文醫士",
+      "reason": "院主下見文的首點與交叉下筆。此欄末字仍作在滬，可見水旁及行筆。",
+      "source_bbox": [
+        876,
+        366,
+        929,
+        714
+      ],
+      "offset": 3,
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "kind": "seal-location",
+      "op": "split",
+      "before": "圖說末左側兩印合標",
+      "after": "圖說末左側上圓印、下圓印各自定位",
+      "reason": "圖中有上下兩方圓印，輪廓分離，分別保留定位。",
+      "source_bbox": [
+        389,
+        497,
+        449,
+        606
+      ],
+      "source_image_sha256": "9fdb0938a8ea4d924dcd99c19ce36650d04359cf7723242cd6d72150b6bed33e",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192",
+      "status": "原名異讀候選"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192",
+      "status": "仍有一字待判"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 12,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075644/canvas/192",
+      "status": "原圖小點與字的關係待確認"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://api.digitale-sammlungen.de/iiif/presentation/v3/bsb00075647/canvas/434",
+      "status": "祇、祗異體候選"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "offset": 8,
+      "source_bbox": [
+        1268,
+        846,
+        1336,
+        970
+      ],
+      "text": "讀得湯頭歌訣便躋時醫胡亂開方草菅人命死也",
+      "candidate": "讀得湯頭歌訣便□時醫胡亂開方草菅人命死也",
+      "reason": "右部密集上點、齊形中豎符合躋，左仍見足旁縮寫。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "9747937e3588de539531446d7f6611575c8fa9db9c3d3378194499602f6680e3",
+      "offset": 7,
+      "source_bbox": [
+        1045,
+        805,
+        1109,
+        1380
+      ],
+      "text": "掩耳之不及矣迺者西國女醫名麗盈始乃逗者",
+      "candidate": "掩耳之不及矣□者西國女醫名麗盈始乃□者",
+      "reason": "前字辶內有西形，後字方口下另有豆足。保留原讀與人名疑讀。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 12,
+      "text": "撟",
+      "candidate": "橋",
+      "reason": "左側以手旁短豎出鈎，照撟。"
+    },
+    {
+      "image": 2,
+      "side": "right",
+      "kind": "artist-signature",
+      "text": "符節",
+      "candidate": "符即",
+      "reason": "末字上方竹頭有小筆，符節與同期畫款可對讀。",
+      "source_bbox": [
+        2257,
+        2050,
+        2302,
+        2116
+      ]
+    }
+  ]
+}

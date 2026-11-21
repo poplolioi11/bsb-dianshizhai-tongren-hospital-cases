@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '《點石齋畫報》上海同仁醫院個案二則（1884、1895 年，巴伐利亞邦立圖書館） / Dian shi zhai hua bao [Two Cases
   at Tongren Hospital in Shanghai]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

@@ -4,11 +4,11 @@
 
 Two illustrated reports in the Dianshizhai Pictorial describe patients at Tongren (St Luke's) Hospital in Shanghai. The 1884 article Zhuo shou cheng chun describes a woman with a large growth and her treatment by a woman physician. The 1895 article Tou shang sheng tou describes a family bringing a newborn to the hospital, where an attending woman physician sought consultation and the doctors recommended postponing surgery. The reports document how the late Qing illustrated press represented women physicians, care seeking and clinical decisions.
 
-## V0.1.0
+## V0.2.0
 
-兩篇完整圖說共36欄，附篇題、圖號、期號、畫款和印記位置及連讀文本。AI 輔助轉錄，待判字已標記。
+兩篇完整圖說共36欄，附篇題、圖號、期號、畫款和印記位置及連讀文本。比對獨立原圖讀法後回圖裁定，採用 10 筆訂正，留存疑讀定位。
 
-Two complete illustrated articles in 36 columns with titles, plate and issue numbers, artists’ signatures, seal locations, and continuous reading text. AI-assisted transcription with uncertain readings marked.
+Two complete illustrated articles in 36 columns with titles, plate and issue numbers, artists’ signatures, seal locations, and continuous reading text. An independent image reading was compared with the first transcription. Source-image adjudication adopted 10 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
